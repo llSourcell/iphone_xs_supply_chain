@@ -1,4 +1,8 @@
-# Jack-Car-Rental-using-Policy-Iteration
+# Overview
+
+This is the code for [this](https://youtu.be/XiN9Hx3Y6TA) video on Youtube by Siraj Raval on Iphone XS Supply Chain. It's apart of the move 37 course at [school of ai](http://www.theschool.ai). I've adapted the jacks car rental problem from the Sutton and Barto book for iphone sales. You'll find my python file in this repository, along with the original code, which belongs to the authors. 
+
+###### Jack-Car-Rental-using-Policy-Iteration 
 This program is to find optimal policy over Jack's cars rental problem using policy iteration. There <br />
 are 2 locations (e.g. A and B) with initially 20 cars in each side. Cars in both location are rented <br />
 and returned according to certain distribution. Every night, we can move 5 cars from A to B or from <br />
